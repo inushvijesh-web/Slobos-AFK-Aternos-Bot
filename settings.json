@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "MTB_CRAFT",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip":"MTBCRAFT-JTB.aternos.me",
+    "port": 28028,
     "version": "",
     "try-creative": false
   },
